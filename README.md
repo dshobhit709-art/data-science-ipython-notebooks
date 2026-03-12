@@ -398,17 +398,3 @@ Notebooks tested with Python 2.7.x.
 * [Kaggle](https://www.kaggle.com/)
 * [Yhat Blog](http://blog.yhat.com/)
 
-## contributing
-
-Contributions are welcome!  For bug reports or requests please [submit an issue](https://github.com/donnemartin/data-science-ipython-notebooks/issues).
-
-## contact-info
-
-Feel free to contact me to discuss any issues, questions, or comments.
-
-* Email: [donne.martin@gmail.com](mailto:donne.martin@gmail.com)
-* Twitter: [@donne_martin](https://twitter.com/donne_martin)
-* GitHub: [donnemartin](https://github.com/donnemartin)
-* LinkedIn: [donnemartin](https://www.linkedin.com/in/donnemartin)
-* Website: [donnemartin.com](http://donnemartin.com)
-
