@@ -12,28 +12,28 @@
 
 ## Index
 
-* [deep-learning](#deep-learning)
-    * [tensorflow](#tensor-flow-tutorials)
-    * [theano](#theano-tutorials)
-    * [keras](#keras-tutorials)
-    * [caffe](#deep-learning-misc)
-* [scikit-learn](#scikit-learn)
-* [statistical-inference-scipy](#statistical-inference-scipy)
-* [pandas](#pandas)
-* [matplotlib](#matplotlib)
-* [numpy](#numpy)
-* [python-data](#python-data)
-* [kaggle-and-business-analyses](#kaggle-and-business-analyses)
-* [spark](#spark)
-* [mapreduce-python](#mapreduce-python)
-* [amazon web services](#aws)
-* [command lines](#commands)
-* [misc](#misc)
-* [notebook-installation](#notebook-installation)
-* [credits](#credits)
-* [contributing](#contributing)
-* [contact-info](#contact-info)
-* [license](#license)
+* [deep-learning]
+    * [tensorflow]
+    * [theano]
+    * [keras]
+    * [caffe]
+* [scikit-learn]
+* [statistical-inference-scipy]
+* [pandas]
+* [matplotlib]
+* [numpy]
+* [python-data]
+* [kaggle-and-business-analyses]
+* [spark]
+* [mapreduce-python]
+* [amazon web services]
+* [command lines]
+* [misc]
+* [notebook-installation]
+* [credits]
+* [contributing]
+* [contact-info]
+* [license]
 
 <br/>
 <p align="center">
@@ -50,14 +50,6 @@ IPython Notebook(s) demonstrating deep learning functionality.
 </p>
 
 ### tensor-flow-tutorials
-
-Additional TensorFlow tutorials:
-
-* [pkmital/tensorflow_tutorials](https://github.com/pkmital/tensorflow_tutorials)
-* [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
-* [alrojo/tensorflow-tutorial](https://github.com/alrojo/tensorflow-tutorial)
-* [BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
-* [tuanavu/tensorflow-basic-tutorials](https://github.com/tuanavu/tensorflow-basic-tutorials)
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -380,21 +372,3 @@ To view interactive content or to modify elements within the IPython notebooks, 
     $ jupyter notebook
 
 Notebooks tested with Python 2.7.x.
-
-## credits
-
-* [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793) by Wes McKinney
-* [PyCon 2015 Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_pycon2015) by Jake VanderPlas
-* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) by Jake VanderPlas
-* [Parallel Machine Learning with scikit-learn and IPython](https://github.com/ogrisel/parallel_ml_tutorial) by Olivier Grisel
-* [Statistical Interference Using Computational Methods in Python](https://github.com/AllenDowney/CompStats) by Allen Downey
-* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) by Aymeric Damien
-* [TensorFlow Tutorials](https://github.com/pkmital/tensorflow_tutorials) by Parag K Mital
-* [TensorFlow Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) by Nathan Lintz
-* [TensorFlow Tutorials](https://github.com/alrojo/tensorflow-tutorial) by Alexander R Johansen
-* [TensorFlow Book](https://github.com/BinRoot/TensorFlow-Book) by Nishant Shukla
-* [Summer School 2015](https://github.com/mila-udem/summerschool2015) by mila-udem
-* [Keras tutorials](https://github.com/leriomaggio/deep-learning-keras-tensorflow) by Valerio Maggio
-* [Kaggle](https://www.kaggle.com/)
-* [Yhat Blog](http://blog.yhat.com/)
-
